@@ -9,5 +9,5 @@ def oxford_comma(array)
     sentence << ", and #{last_element}"
   end
 end
-    
+
     
